@@ -1,0 +1,2 @@
+c:\users\sena ceylan\source\repos\Calisan_Departman_uml\Calisan_Departman_uml\obj\Debug\Calisan_Departman_uml.csprojAssemblyReference.cache
+c:\users\sena ceylan\source\repos\Calisan_Departman_uml\Calisan_Departman_uml\obj\Debug\Calisan_Departman_uml.csproj.CoreCompileInputs.cache

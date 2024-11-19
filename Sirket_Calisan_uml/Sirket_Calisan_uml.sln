@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35213.121
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirket_Calisan_uml", "Sirket_Calisan_uml\Sirket_Calisan_uml.csproj", "{068AD130-5401-4D0A-91D5-ADB344CB9627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{068AD130-5401-4D0A-91D5-ADB344CB9627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068AD130-5401-4D0A-91D5-ADB344CB9627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068AD130-5401-4D0A-91D5-ADB344CB9627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068AD130-5401-4D0A-91D5-ADB344CB9627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9E75017-1450-4EAE-B828-BAD8DC719E3B}
+	EndGlobalSection
+EndGlobal
